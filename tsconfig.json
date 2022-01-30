@@ -3,7 +3,9 @@
     "compilerOptions": {
       "target": "es2020",
       "moduleResolution": "node",
-      "rootDir": "./algorithms",
+      "rootDir": "./",
       "outDir": "./dist"
     },
   }
+
+  
